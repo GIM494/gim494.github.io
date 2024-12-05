@@ -2,12 +2,12 @@
 title: "Recognizing Lawyers as AI Creators and Intermediaries in Contestability"
 collection: publications
 category: conferences
-permalink: /publication/MansiAndRiedl2024_Lawyers
+permalink: /publication/2024-11-09-lawyers-number-1
 excerpt: 
 date: 2020-11-09
 venue: 'Proceedings of workshop ''From Stem to Stern: Contestability Along AI Value Chains'' at the Conference for Computer Supported Collaborative Work (CSCW '24)'
 slidesurl: 
-paperurl: 'https://arxiv.org/abs/2409.17626'
+paperurl: 'https://arxiv.org/pdf/2409.17626'
 citation: 
 ---
 
