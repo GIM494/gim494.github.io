@@ -11,8 +11,5 @@ main:
   - title: "Projects"
     url: /talks/    
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Guide"
     url: /markdown/
