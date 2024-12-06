@@ -7,10 +7,18 @@ redirect_from:
   - /projects.html
 ---
 
-## Rethinking Actionability
-![Profile Photo](/images/mansi_profile.png)
+## Improving the Design and Evaluation of Explanations in AI Systems
+![Design References](/images/Design_References.jpg)
+
+
+
+
 
 ## Concept Catalyst
+
+<p align="center">
+  <img src="/images/Design_References.jpg"/>
+</p>
 
 ## Experiential Explanations
 
