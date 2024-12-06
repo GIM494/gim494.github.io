@@ -20,8 +20,8 @@ Second, I uncovered an under-explored need from AI explanations. I was interview
 
 <p align="left">
   <img src="/images/AI_Law_Machine.jpg" style="width: 200 px" />
-</p>
 Now I’m using the taxonomy to address this need. I used my taxonomy to identify the actions doctors would take if an AI explanation was addressing their legal concern. I’m working backwards to identify the information we should include in AI explanations. While doctors want to mitigate their legal risk, they’re not as good at understanding the law. I’m developing an interview method for use with lawyers to identify this information. I’m using the taxonomy to analyze my conversations with lawyers and identify the factors impacting legal risk and information users need to manage risk. I’ll synthesize my findings into design references that I and others can use to build explanations that can help address users’ legal concerns, creating a clearer path for users to act with AI explanations.
+</p>
 
 - **Mansi, G.**, Kim, J., Riedl, M. Rethinking Actionability in Explainable AI. (In Prep)
 - **Mansi, G.** & Riedl, M. Recognizing Lawyers as AI Creators and Intermediaries in Contestability. Workshop ”From Stem to Stern: Contestability Along AI Value Chains” at the Conference for Computer Supported Collaborative Work 2024 (CSCW ’24)
