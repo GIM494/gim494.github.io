@@ -3,12 +3,12 @@ title: "Why Don't You Do Something About It? Outlining Connections between AI Ex
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 
+date: 2023-03-28
+venue: 'Human-Centered Explainable AI (HCXAI) Workshop at CHI'
+slidesurl: 
+paperurl: 'https://arxiv.org/pdf/2305.06297'
+citation:
 ---
 
 A core assumption of explainable AI systems is that explanations change what users know, thereby enabling them to act within their complex socio-technical environments. Despite the centrality of action, explanations are often organized and evaluated based on technical aspects. Prior work varies widely in the connections it traces between information provided in explanations and resulting user actions. An
