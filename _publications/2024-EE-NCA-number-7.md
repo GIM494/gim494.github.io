@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-EE-NCA-number-7.md
 excerpt:
-date: 2024
+date: 2024-01-01
 venue: 'Nerual Computing and Applications 2024'
 slidesurl:
 paperurl: ''
