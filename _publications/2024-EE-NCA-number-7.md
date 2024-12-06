@@ -5,8 +5,8 @@ category: conferences
 permalink: /publication/2024-EE-NCA-number-7.md
 excerpt:
 date: 2024-01-01
-venue: 'Nerual Computing and Applications 2024'
+venue:
 slidesurl:
-paperurl: ''
-citation: 'Alabdukarim, A., Singh, M., Mansi, G., Hall, K., Ehsan, U., and Riedl, M. Experiential Explanations for Reinforcement Learning. Nerual Computing and Applications 2024'
+paperurl: 'https://arxiv.org/pdf/2210.04723'
+citation: 'Alabdukarim, A., Singh, M., Mansi, G., Hall, K., Ehsan, U., and Riedl, M. Experiential Explanations for Reinforcement Learning. Nerual Computing and Applications 2024.'
 ---
