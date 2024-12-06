@@ -2,7 +2,7 @@
 title: "Why Don't You Do Something About It? Outlining Connections between AI Explanations & User Actions"
 collection: publications
 category: conferences
-permalink: /publication/2023-03-28-OG-Framework-number-2
+permalink: /publication/2023-03-28-OG-Framework-number-4
 excerpt: 
 date: 2023-03-28
 venue: 'Human-Centered Explainable AI (HCXAI) Workshop at CHI'
