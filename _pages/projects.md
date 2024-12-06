@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Rethinking Actionability
+![Profile Photo](/images/mansi_profile.png)
 
 ## Concept Catalyst
 
