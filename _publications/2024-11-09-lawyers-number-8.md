@@ -2,7 +2,7 @@
 title: "Recognizing Lawyers as AI Creators and Intermediaries in Contestability"
 collection: publications
 category: conferences
-permalink: /publication/2024-11-09-lawyers-number-7
+permalink: /publication/2024-11-09-lawyers-number-8
 excerpt: 
 date: 2024-11-09
 venue: 
