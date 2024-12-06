@@ -1,5 +1,5 @@
 ---
-title: "Experiential Explanations for Reinforcement Learning."
+title: "Experiential Explanations for Reinforcement Learning"
 collection: publications
 category: conferences
 permalink: /publication/2024-EE-NCA-number-7.md
